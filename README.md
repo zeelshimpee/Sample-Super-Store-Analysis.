@@ -20,7 +20,7 @@ And more
 The results of the analysis provide insights into the company's sales and profits, as well as customer demographics. It also highlights some interesting trends, such as the most profitable regions, categories, and sub-categories, and the impact of discounts on sales and profits.
 
 # DashBoard
-![superstore dashboard](https://user-images.githubusercontent.com/113959612/226955546-bec53418-31f3-4106-bfea-5d90f92f9d8f.PNG)
+![superstore dashboard](https://user-images.githubusercontent.com/113959612/226988996-fd903b5f-ee7c-4fe5-974e-d6ef0df3dc55.PNG)
 
 # Conclusion
 The Sample Superstore data set analysis provides a comprehensive understanding of the company's sales and profits, as well as customer demographics. It can be used by analysts, students, and stakeholders to make informed decisions and strategies for the future. The code and results are available in this repository for anyone to use and build upon.
